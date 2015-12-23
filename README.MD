@@ -27,7 +27,7 @@ Thanks to <https://github.com/orhanobut/logger>
 
 ### License
 
-	Copyright 2015 Orhan Obut
+	Copyright 2015 LichFaker
 
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.

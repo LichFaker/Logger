@@ -11,6 +11,25 @@ Thanks to <https://github.com/orhanobut/logger>
 * Default tag
 * Simple to use 
 
+#### Download
+
+1. Add it in your root build.gradle at the end of repositories:
+
+		allprojects {
+			repositories {
+				...
+				maven { url "https://jitpack.io" }
+			}
+		}
+	
+2. Add the dependency
+
+		dependencies {
+	        compile 'com.github.LichFaker:Logger:v1.0.0'
+		}
+
+
+
 #### Examples
 
 		Logger.setLevel(true); // true means print, debug mode
